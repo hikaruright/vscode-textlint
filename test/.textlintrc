@@ -3,7 +3,8 @@
     "latex2e": {}, 
     "html": {
       "extensions": [".vue"]
-    }
+    }, 
+    "review": {}
   },
   "filters": {},
   "rules": {
